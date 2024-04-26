@@ -2,7 +2,7 @@
 
 [Português](#ma-favorite-theme) 🇧🇷
 
-[English](#ma-favorite-theme-1) 🇺🇸
+[English](#ma-favorite-theme-english) 🇺🇸
 
 ## Português 🇧🇷
 
@@ -34,7 +34,7 @@ Seu feedback é importante para nós! Se você tiver alguma sugestão, problema 
 
 Este tema é licenciado sob a [Licença MIT](LICENSE.md).
 
----
+# ma-favorite-theme-english
 
 ## English 🇺🇸
 
