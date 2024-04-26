@@ -16,8 +16,8 @@ Ma favorite theme é um tema estiloso e personalizável para o Visual Studio Cod
 
 ### Recursos
 
-- Esquema de cores bonito
-- Configurações personalizáveis
+- Esquema de cores bonito.
+- Configurações personalizáveis.
 
 ### Instalação
 
