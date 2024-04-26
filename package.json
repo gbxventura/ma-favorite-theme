@@ -9,11 +9,7 @@
     "type": "git",
     "url": "https://github.com/gbxventura/ma-favorite-theme"
   },
-  "icon": {
-    "path": "logo.png",
-    "format": "png",
-    "size": "128"
-  },
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.88.0"
   },
