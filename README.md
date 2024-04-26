@@ -8,6 +8,8 @@
 
 ### Print do tema
 
+[./]
+
 ### Descrição
 
 Ma favorite theme é um tema estiloso e personalizável para o Visual Studio Code. Ele oferece um esquema de cores agradável que melhora sua experiência de codificação.

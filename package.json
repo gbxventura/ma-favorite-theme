@@ -2,12 +2,12 @@
   "name": "ma-favorite-theme",
   "displayName": "Ma favorite theme",
   "description": "Cyberpunk Minimalist theme",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "Mafavoritetheme", 
   "license": "MIT", 
   "repository": { 
     "type": "git",
-    "url": "https://github.com/seu-usuario/seu-repositorio"
+    "url": "https://github.com/gbxventura/ma-favorite-theme"
   },
   "engines": {
     "vscode": "^1.88.0"
