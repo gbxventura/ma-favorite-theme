@@ -8,7 +8,7 @@
 
 ### Print do tema
 
-[./]
+![Print 1](print.png)
 
 ### Descrição
 
@@ -41,6 +41,8 @@ Este tema é licenciado sob a [Licença MIT](LICENSE.md).
 ## English 🇺🇸
 
 ### Print
+
+![Print 1](print.png)
 
 ### Description
 
