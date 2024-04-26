@@ -1,12 +1,12 @@
 # Ma favorite theme
 
-[Português](#ma-favorite-theme)
+[Português](#ma-favorite-theme) 🇧🇷
 
-[English](#ma-favorite-theme-1)
+[English](#ma-favorite-theme-1) 🇺🇸
 
----
+## Português 🇧🇷
 
-## Português
+### Print do tema
 
 ### Descrição
 
@@ -28,7 +28,7 @@ Ma favorite theme é um tema estiloso e personalizável para o Visual Studio Cod
 
 ### Feedback
 
-Seu feedback é importante para nós! Se você tiver alguma sugestão, problema ou solicitação de recurso, sinta-se à vontade para [abrir uma issue](https://github.com/seu-usuario/seu-repositorio/issues) no GitHub.
+Seu feedback é importante para nós! Se você tiver alguma sugestão, problema ou solicitação de recurso, sinta-se à vontade para [abrir uma issue](https://github.com/gbxventura/ma-favorite-theme) no GitHub.
 
 ### Licença
 
@@ -36,7 +36,9 @@ Este tema é licenciado sob a [Licença MIT](LICENSE.md).
 
 ---
 
-## English
+## English 🇺🇸
+
+### Print
 
 ### Description
 
@@ -58,7 +60,7 @@ Ma favorite theme is a stylish and customizable theme for Visual Studio Code. It
 
 ### Feedback
 
-Your feedback is important to us! If you have any suggestions, issues, or feature requests, please feel free to [open an issue](https://github.com/seu-usuario/seu-repositorio/issues) on GitHub.
+Your feedback is important to us! If you have any suggestions, issues, or feature requests, please feel free to [open an issue](https://github.com/gbxventura/ma-favorite-theme) on GitHub.
 
 ### License
 
